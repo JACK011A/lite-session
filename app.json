@@ -1,9 +1,9 @@
 
 {
-    "name": "lite-session",
+    "name": "jack-session",
     "description": "Web Session Generator",
     "logo": "https://ibb.co/k2rpmfmJ",
-    "repository": "https://github.com/JACK011A/lite-session",
+    "repository": "https://github.com/JACK011A/jack-session",
     "keywords": ["Malvin-Tech"],
     "success_url": "/", 
     "buildpacks": [{ "url": "https://github.com/heroku/heroku-buildpack-nodejs#latest" } ],
