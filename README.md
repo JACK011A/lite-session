@@ -14,6 +14,6 @@
 
 # `Owner`
 
- <a href="https://github.com/JACK011A"><img src="https://github.com/JACK011A.png" width="250" height="250" alt="Malvin Tech"/></a>
+ <a href="https://github.com/JACK011A"><img src="https://res.cloudinary.com/db4ayioxs/image/upload/v1744446005/uploads/1744446004853-download.jpeg.png" width="250" height="250" alt="Malvin Tech"/></a>
 
    
